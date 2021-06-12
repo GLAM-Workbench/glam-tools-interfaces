@@ -4,9 +4,14 @@ See the [GLAM Workbench](https://glam-workbench.net/) for many more tools, tutor
 
 # GLAM tools and interfaces
 
-More tools, interfaces, and experiments for working with collection data from GLAM organisations (galleries, libraries, archives, and museums). 
+More tools, interfaces, and experiments for working with collection data from GLAM organisations (galleries, libraries, archives, and museums).
 
 ## Australia
+
+### Multiple collections
+
+* [GLAM Workbench](https://glam-workbench.net/)
+* [HuNI](https://huni.net.au/)
 
 ### National Archives of Australia
 
@@ -50,7 +55,7 @@ See the [DXLab Experiments](https://dxlab.sl.nsw.gov.au/experiments/) page for m
 ### Trove
 
 * [Culture Collage](https://www.zenlan.com/collage/) (Zenlan)
-* [Explore Trove's Digitised Journals](https://trove-titles.herokuapp.com/)
+* [Explore Trove's Digitised Journals](https://trove-titles.herokuapp.com/) (Tim Sherratt)
 * [Headline Roulette](https://headlineroulette.net/) (Tim Sherratt) 
 * [QueryPic](http://dhistory.org/querypic/) (Tim Sherratt) – visualise newspaper searches
 * ['To Be Continued...': Australian Newspaper Fiction Database](https://cdhrdatasys.anu.edu.au/tobecontinued/) (Katherine Bode & Carol Hetherington)
