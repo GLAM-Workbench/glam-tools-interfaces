@@ -23,8 +23,6 @@ More tools, interfaces, and experiments for working with collection data from GL
 
 ### State Library of NSW
 
-#### DX Lab
-
 See the [DXLab Experiments](https://dxlab.sl.nsw.gov.au/experiments/) page for more.
 
 * [1001 Postcards](https://dxlab.sl.nsw.gov.au/blog/1001-postcards/)
