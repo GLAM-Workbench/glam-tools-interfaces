@@ -12,6 +12,7 @@ More tools, interfaces, and experiments for working with collection data from GL
 
 * [GLAM Workbench](https://glam-workbench.net/)
 * [HuNI](https://huni.net.au/)
+* [Time Layered Cultural Map](https://www.tlcmap.org/)
 
 ### National Archives of Australia
 
@@ -60,6 +61,8 @@ See the [DXLab Experiments](https://dxlab.sl.nsw.gov.au/experiments/) page for m
 * [QueryPic](http://dhistory.org/querypic/) (Tim Sherratt) – visualise newspaper searches
 * ['To Be Continued...': Australian Newspaper Fiction Database](https://cdhrdatasys.anu.edu.au/tobecontinued/) (Katherine Bode & Carol Hetherington)
 * [Trove API Console](https://troveconsole.herokuapp.com/) (Tim Sherratt)
+* [Trove Traces](https://www.timsherratt.org/shed/trovetraces/traces/index.html)
+* [Trove Twitter bots](https://twitter.com/i/lists/944100466199166977)
 * [Trove Places](https://troveplaces.herokuapp.com/) (Tim Sherratt) – find newspapers by place
 * [Trove Harvester](https://pypi.org/project/troveharvester/) (Tim Sherratt) – harvest newspaper and gazette articles
 
