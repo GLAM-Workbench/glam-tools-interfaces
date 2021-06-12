@@ -64,4 +64,9 @@ See the [DXLab Experiments](https://dxlab.sl.nsw.gov.au/experiments/) page for m
 * [Trove Places](https://troveplaces.herokuapp.com/) (Tim Sherratt) – find newspapers by place
 * [Trove Harvester](https://pypi.org/project/troveharvester/) (Tim Sherratt) – harvest newspaper and gazette articles
 
+## Contributing to this list
 
+Additions to this list are welcome. Either:
+
+1. Submit an issue in this repository.
+2. Fork this repository, make your changes, then submit a pull request.
