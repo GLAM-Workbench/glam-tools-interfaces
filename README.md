@@ -80,7 +80,7 @@ See the [DXLab Experiments](https://dxlab.sl.nsw.gov.au/experiments/) page for m
 * [Headline Roulette](https://headlineroulette.net/)
 * [In a word...](https://inaword.herokuapp.com/) – currents in Australian affairs, 2003–2013, using data from ABC Radio National
 * [QueryPic](http://dhistory.org/querypic/) – visualise newspaper searches
-* ['To Be Continued...': Australian Newspaper Fiction Database](https://cdhrdatasys.anu.edu.au/tobecontinued/) (Katherine Bode & Carol Hetherington)
+* ['To Be Continued...': Australian Newspaper Fiction Database](https://cdhrdatasys.anu.edu.au/tobecontinued/)
 * [Trove API Console](https://troveconsole.herokuapp.com/) 
 * [Trove Traces](https://www.timsherratt.org/shed/trovetraces/traces/index.html)
 * [Trove Twitter bots](https://twitter.com/i/lists/944100466199166977)
