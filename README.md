@@ -12,8 +12,15 @@ See also the list of [Australian GLAM data sources](https://glam-workbench.net/g
 
 ### Multiple collections
 
+* [Chinese-Australian Historical Images in Australia](https://chia.chinesemuseum.com.au/)
+* [Encylopedia of Australian Science](https://www.eoas.info/home.html)
+* [Find and Connect](https://www.findandconnect.gov.au/)
+* [Founders and Survivors](https://foundersandsurvivors.com/)
+* [GLAM Name Index Search](https://glam-workbench.net/name-search/)
 * [GLAM Workbench](https://glam-workbench.net/)
 * [HuNI](https://huni.net.au/)
+* [The Prosecution Project](https://prosecutionproject.griffith.edu.au/)
+* [Reason in Revolt](https://www.reasoninrevolt.net.au/)
 * [Time Layered Cultural Map](https://www.tlcmap.org/)
 
 ### Commonwealth Hansard
@@ -26,6 +33,7 @@ See also the list of [Australian GLAM data sources](https://glam-workbench.net/g
 * [Closed Access](https://closedaccess.herokuapp.com/) (Tim Sherratt)
 * [redacted](https://owebrowse.herokuapp.com/redactions/) (Tim Sherratt)
 * [The Real Face of White Australia](https://www.realfaceofwhiteaustralia.net/) (Kate Bagnall & Tim Sherratt)
+* [Victorian CEDT Index](https://www.cafhov.com/vic-cedt-index/) (CAFHOV)
 
 #### Software
 * [RecordSearch Data Scraper](https://wragge.github.io/recordsearch_data_scraper/) (Tim Sherratt)
