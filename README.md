@@ -30,13 +30,18 @@ See also the list of [Australian GLAM data sources](https://glam-workbench.net/g
 
 ### National Archives of Australia
 
-* [Closed Access](https://closedaccess.herokuapp.com/) (Tim Sherratt)
-* [redacted](https://owebrowse.herokuapp.com/redactions/) (Tim Sherratt)
-* [The Real Face of White Australia](https://www.realfaceofwhiteaustralia.net/) (Kate Bagnall & Tim Sherratt)
-* [Victorian CEDT Index](https://www.cafhov.com/vic-cedt-index/) (CAFHOV)
+* [Closed Access](https://closedaccess.herokuapp.com/)
+* [Passenger Cards](https://hota.beneb.com/passengercards/#!/)
+* [redacted](https://owebrowse.herokuapp.com/redactions/)
+* [The Real Face of White Australia](https://www.realfaceofwhiteaustralia.net/)
+* [Victorian CEDT Index](https://www.cafhov.com/vic-cedt-index/)
 
 #### Software
-* [RecordSearch Data Scraper](https://wragge.github.io/recordsearch_data_scraper/) (Tim Sherratt)
+* [RecordSearch Data Scraper](https://wragge.github.io/recordsearch_data_scraper/)
+
+### National Gallery of Australia
+
+* [Australian Prints + Printmakers](https://www.printsandprintmaking.gov.au/)
 
 ### State Library of NSW
 
@@ -65,24 +70,24 @@ See the [DXLab Experiments](https://dxlab.sl.nsw.gov.au/experiments/) page for m
 
 ### State Library of Queensland
 
-* [Corley Explorer](https://explorer.corley.slq.qld.gov.au/) (Mitchell Whitelaw & Geoff Hinchcliffe)
-* [Discover the Queenslander](https://www.slq.qld.gov.au/discover/exhibitions/discover-queenslander#/mosaic) (Mitchell Whitelaw & Geoff Hinchcliffe)
+* [Corley Explorer](https://explorer.corley.slq.qld.gov.au/)
+* [Discover the Queenslander](https://www.slq.qld.gov.au/discover/exhibitions/discover-queenslander#/mosaic)
 
 ### Trove
 
-* [Culture Collage](https://www.zenlan.com/collage/) (Zenlan)
-* [Explore Trove's Digitised Journals](https://trove-titles.herokuapp.com/) (Tim Sherratt)
-* [Headline Roulette](https://headlineroulette.net/) (Tim Sherratt) 
-* [In a word...](https://inaword.herokuapp.com/) (Tim Sherratt) – currents in Australian affairs, 2003–2013, using data from ABC Radio National
-* [QueryPic](http://dhistory.org/querypic/) (Tim Sherratt) – visualise newspaper searches
+* [Culture Collage](https://www.zenlan.com/collage/)
+* [Explore Trove's Digitised Journals](https://trove-titles.herokuapp.com/)
+* [Headline Roulette](https://headlineroulette.net/)
+* [In a word...](https://inaword.herokuapp.com/) – currents in Australian affairs, 2003–2013, using data from ABC Radio National
+* [QueryPic](http://dhistory.org/querypic/) – visualise newspaper searches
 * ['To Be Continued...': Australian Newspaper Fiction Database](https://cdhrdatasys.anu.edu.au/tobecontinued/) (Katherine Bode & Carol Hetherington)
-* [Trove API Console](https://troveconsole.herokuapp.com/) (Tim Sherratt)
+* [Trove API Console](https://troveconsole.herokuapp.com/) 
 * [Trove Traces](https://www.timsherratt.org/shed/trovetraces/traces/index.html)
 * [Trove Twitter bots](https://twitter.com/i/lists/944100466199166977)
-* [Trove Places](https://troveplaces.herokuapp.com/) (Tim Sherratt) – find newspapers by place
+* [Trove Places](https://troveplaces.herokuapp.com/) – find newspapers by place
 
 #### Software
-* [Trove Harvester](https://pypi.org/project/troveharvester/) (Tim Sherratt) – harvest newspaper and gazette articles
+* [Trove Harvester](https://pypi.org/project/troveharvester/) – harvest newspaper and gazette articles
 * [Trove Query Parser](https://pypi.org/project/trove-query-parser/) – convert search parameters from the Trove web interface into a form the API understands
 * [Trove Newspaper Images](https://pypi.org/project/trove-newspaper-images/) – tools for downloading images from Trove's digitised newspapers and gazettes
 
