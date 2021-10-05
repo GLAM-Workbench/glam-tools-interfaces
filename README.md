@@ -14,12 +14,19 @@ More tools, interfaces, and experiments for working with collection data from GL
 * [HuNI](https://huni.net.au/)
 * [Time Layered Cultural Map](https://www.tlcmap.org/)
 
+### Commonwealth Hansard
+
+* [Historic Hansard](https://www.historichansard.net/) - Commonwealth of Australia parliamentary debates presented in an easy-to-read format for historians and other lovers of political speech
+* [Real Words :: Imagined Tweets](https://hansard-interjections.herokuapp.com/tweets/) – Hansard interjections reimagined
+
 ### National Archives of Australia
 
 * [Closed Access](https://closedaccess.herokuapp.com/) (Tim Sherratt)
-* [RecordSearch Data Scraper](https://wragge.github.io/recordsearch_data_scraper/) (Tim Sherratt)
 * [redacted](https://owebrowse.herokuapp.com/redactions/) (Tim Sherratt)
 * [The Real Face of White Australia](https://www.realfaceofwhiteaustralia.net/) (Kate Bagnall & Tim Sherratt)
+
+#### Software
+* [RecordSearch Data Scraper](https://wragge.github.io/recordsearch_data_scraper/) (Tim Sherratt)
 
 ### State Library of NSW
 
@@ -62,7 +69,11 @@ See the [DXLab Experiments](https://dxlab.sl.nsw.gov.au/experiments/) page for m
 * [Trove Traces](https://www.timsherratt.org/shed/trovetraces/traces/index.html)
 * [Trove Twitter bots](https://twitter.com/i/lists/944100466199166977)
 * [Trove Places](https://troveplaces.herokuapp.com/) (Tim Sherratt) – find newspapers by place
+
+#### Software
 * [Trove Harvester](https://pypi.org/project/troveharvester/) (Tim Sherratt) – harvest newspaper and gazette articles
+* [Trove Query Parser](https://pypi.org/project/trove-query-parser/) – convert search parameters from the Trove web interface into a form the API understands
+* [Trove Newspaper Images](https://pypi.org/project/trove-newspaper-images/) – tools for downloading images from Trove's digitised newspapers and gazettes
 
 ## Contributing to this list
 
